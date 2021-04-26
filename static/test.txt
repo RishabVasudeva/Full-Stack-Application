@@ -1,0 +1,2 @@
+this is a text file
+its is for DJANGO
